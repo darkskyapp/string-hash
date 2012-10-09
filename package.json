@@ -1,0 +1,23 @@
+{
+  "name": "hash",
+  "version": "1.0.0",
+  "description": "fast string hashing function",
+  "keywords": [
+    "string",
+    "hashing"
+  ],
+  "author": {
+    "name": "J.T.L.",
+    "email": "ironwallaby@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ironwallaby/hash.git"
+  },
+  "main": "./index",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.3.x"
+  }
+}
