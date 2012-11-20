@@ -1,18 +1,18 @@
 {
-  "name": "hash",
-  "version": "1.0.0",
+  "name": "string-hash",
+  "version": "1.1.0",
   "description": "fast string hashing function",
   "keywords": [
     "string",
     "hashing"
   ],
   "author": {
-    "name": "J.T.L.",
-    "email": "ironwallaby@gmail.com"
+    "name": "The Dark Sky Company",
+    "email": "devsupport@darkskyapp.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ironwallaby/hash.git"
+    "url": "git://github.com/darkskyapp/string-hash.git"
   },
   "main": "./index",
   "dependencies": {

@@ -1,5 +1,5 @@
-Hash
-====
+string-hash
+===========
 
 A fast string hashing function for Node.JS. The particular algorithm is quite
 similar to `djb2`, by Dan Bernstein and available
