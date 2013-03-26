@@ -9,3 +9,6 @@ operator instead of the addition operator (as described at that page and
 because it obviates the need for modular arithmetic in JavaScript).
 
 The hashing function returns a number between 0 and 4294967295 (inclusive).
+
+Thanks to [cscott](https://github.com/cscott) for reminding us how integers
+work in JavaScript.
