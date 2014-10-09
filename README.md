@@ -12,3 +12,11 @@ The hashing function returns a number between 0 and 4294967295 (inclusive).
 
 Thanks to [cscott](https://github.com/cscott) for reminding us how integers
 work in JavaScript.
+
+License
+-------
+
+To the extend possible by law, The Dark Sky Company, LLC has [waived all
+copyright and related or neighboring rights][cc0] to this library.
+
+[cc0]: http://creativecommons.org/publicdomain/zero/1.0/
