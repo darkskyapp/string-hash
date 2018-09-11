@@ -13,6 +13,19 @@ The hashing function returns a number between 0 and 4294967295 (inclusive).
 Thanks to [cscott](https://github.com/cscott) for reminding us how integers
 work in JavaScript.
 
+How to use this library
+=======================
+
+`npm install string-hash` or `yarn add string-hash`
+
+Then:
+
+```
+import stringHash from 'string-hash'
+const myString = 'foo'
+const myPositiveInteger = stringHash(myString)
+```
+
 License
 -------
 
