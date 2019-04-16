@@ -19,9 +19,8 @@ Example
 `npm install string-hash` or `yarn add string-hash`, then:
 
 ```
-import stringHash from "string-hash";
-const myString = "foo";
-const myPositiveInteger = stringHash(myString);
+const stringHash = require("string-hash");
+console.log(stringHash("foo")); // prints "193420387"
 ```
 
 Note that the return value is always an unsigned, 32-bit integer.
